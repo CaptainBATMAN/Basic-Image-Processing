@@ -1,5 +1,4 @@
 #Importing Image , Displaying Image Properties , Converting to Grayscale(using CV2 and Matplotlib) , displaying image , saving Output image.
-#Source :https://pythonprogramming.net/loading-images-python-opencv-tutorial/
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
